@@ -1,6 +1,9 @@
 # Repository를 Clone 받을 때 해당 Repository를 가리키는 URL
-https://github.com/LEEJUBIN68(user name)/Origin(repository name).git(확장자)
 
+# https://evan-moon.github.io/2019/07/25/git-tutorial/(사이트)
+
+https://github.com/LEEJUBIN68/Origin.git
+                  (user name)(repository name)(확장자)
 # cd 명령어
 # 원하는 작업 Directory로 이동
 $cd ~/dev/evan
